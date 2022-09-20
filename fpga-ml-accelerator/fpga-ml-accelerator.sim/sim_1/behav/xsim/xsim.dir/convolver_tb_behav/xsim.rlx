@@ -1,0 +1,12 @@
+
+{ 
+    crc :  2569775319665782505  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto fa1616ce28494c0882915742690beafa --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot convolver_tb_behav xil_defaultlib.convolver_tb xil_defaultlib.glbl" , 
+    buildDate : "Jun 14 2018" , 
+    buildTime : "20:41:02" , 
+    linkCmd : "D:\\vivado-xhilix\\Vivado\\2018.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/convolver_tb_behav/xsimk.exe\"   \"xsim.dir/convolver_tb_behav/obj/xsim_0.win64.obj\" \"xsim.dir/convolver_tb_behav/obj/xsim_1.win64.obj\" \"D:\\vivado-xhilix\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simulator_kernel.dll\"  \"D:\\vivado-xhilix\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simbridge_kernel.dll\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

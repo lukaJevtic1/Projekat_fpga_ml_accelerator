@@ -1,0 +1,20 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/accelerator.v,1663523415,verilog,,D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/comparator2.v,,acclerator,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/accelerator_tb.v,1663588853,verilog,,,,accelerator_tb,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/comparator2.v,1663525588,verilog,,D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/control_logic2.v,,comparator2,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/control_logic2.v,1663525652,verilog,,D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/convolver.v,,control_logic2,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/convolver.v,1663525706,verilog,,D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/mac_manual.v,,convolver,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/convolver_tb.v,1663525806,verilog,,,,convolver_tb,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/input_mux.v,1663525859,verilog,,D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/mac_manual.v,,input_mux,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/mac_manual.v,1663525909,verilog,,D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/qadd.v,,mac_manual,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/max_reg.v,1663526018,verilog,,D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/pooler.v,,max_reg,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/pooler.v,1663526068,verilog,,D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/qadd.v,,pooler,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/qadd.v,1663526140,verilog,,D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/qmult.v,,qadd,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/qmult.v,1663526185,verilog,,D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/variable_shift_reg.v,,qmult,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/relu.v,1663526231,verilog,,D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/tanh_lut.v,,relu,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/tanh_lut.v,1663526282,verilog,,D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/variable_shift_reg.v,,tanh_lut,,,,,,,,
+D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/variable_shift_reg.v,1663526330,verilog,,D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/convolver_tb.v,,variable_shift_reg,,,,,,,,

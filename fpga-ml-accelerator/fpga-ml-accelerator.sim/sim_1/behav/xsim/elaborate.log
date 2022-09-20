@@ -1,0 +1,13 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: D:/vivado-xhilix/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto fa1616ce28494c0882915742690beafa --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot accelerator_tb_behav xil_defaultlib.accelerator_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 18 differs from formal bit length 45 for port weight1 [D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/accelerator.v:42]
+WARNING: [VRFC 10-278] actual bit length 4 differs from formal bit length 16 for port activation [D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/accelerator.v:44]
+WARNING: [VRFC 10-278] actual bit length 16 differs from formal bit length 5 for port tanh [D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/accelerator.v:64]
+WARNING: [VRFC 10-278] actual bit length 5 differs from formal bit length 16 for port a [D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/tanh_lut.v:54]
+WARNING: [VRFC 10-278] actual bit length 5 differs from formal bit length 16 for port a [D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/tanh_lut.v:55]
+WARNING: [VRFC 10-597] element index 47 into weight1 is out of bounds [D:/Konacan_projekat_vivado/fpga-ml-accelerator/fpga-ml-accelerator.srcs/sources_1/new/convolver.v:29]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
